@@ -1,9 +1,9 @@
 # Smokers Status Classification
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ahmedemad2002/Smokers-Status-Classification)
-![GitHub contributors](https://img.shields.io/github/contributors/ahmedemad2002/Smokers-Status-Classification)
-![GitHub stars](https://img.shields.io/github/stars/ahmedemad2002/Smokers-Status-Classification?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ahmedemad2002/Smokers-Status-Classification?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ahmedemad2002/Smokers-Status-Classfication)
+![GitHub contributors](https://img.shields.io/github/contributors/ahmedemad2002/Smokers-Status-Classfication)
+![GitHub stars](https://img.shields.io/github/stars/ahmedemad2002/Smokers-Status-Classfication?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ahmedemad2002/Smokers-Status-Classfication?style=social)
 
 ## Kaggle Playground Series Competition - S3E24
 
@@ -39,10 +39,10 @@ For using the project and editing it on your local machine, you can follow the f
 
 ```bash
 # Clone the repository
-git clone https://github.com/ahmedemad2002/Smokers-Status-Classification.git
+git clone https://github.com/ahmedemad2002/Smokers-Status-Classfication.git
 
 # Navigate to the project folder
-cd Smokers-Status-Classification
+cd Smokers-Status-Classfication
 
 # Install dependencies (if any)
 pip install -r requirements.txt
