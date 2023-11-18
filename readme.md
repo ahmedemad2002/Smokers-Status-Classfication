@@ -14,10 +14,7 @@ This repository contains the code and resources developed for the Kaggle competi
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Usage](#usage)
-- [File Descriptions](#file-descriptions)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project aims to get the highest AUC score possible for classfiying the records from the dataset to smokers or not.
